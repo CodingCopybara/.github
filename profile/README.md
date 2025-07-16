@@ -1,12 +1,8 @@
-## Hi there 👋
+## 👥 팀원 소개
 
-<!--
+| <img src="https://github.com/fndl5759.png" width="100"/> | <img src="https://github.com/cucumberbatc.png" width="100"/> | <img src="https://github.com/dlafhr789.png" width="100"/> | <img src="https://github.com/thlee17.png" width="100"/> | <img src="https://github.com/gayomiiiii.png" width="100"/> | <img src="https://github.com/Mnemosyne1234.png" width="100"/> |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| **이재승**| **김보라**| **전임록**| **이태현**| **최가영**| **최미소**|
+| [@fndl5759](https://github.com/fndl5759) | [@cucumberbatc](https://github.com/cucumberbatc) | [@dlafhr789](https://github.com/dlafhr789) | [@thlee17](https://github.com/thlee17) | [@gayomiiiii](https://github.com/gayomiiiii) | [@Mnemosyne1234](https://github.com/Mnemosyne1234) |
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
